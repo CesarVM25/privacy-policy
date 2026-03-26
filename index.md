@@ -45,5 +45,3 @@ No compartimos información personal directamente con los anunciantes.
 Esta app no está dirigida a menores de 13 años. Si tienes conocimiento de que un menor nos ha proporcionado datos personales, contáctanos para eliminarlos.
 
 ---
-
-Esta política es un ejemplo básico. Personalízala según tus necesidades y requisitos legales.
