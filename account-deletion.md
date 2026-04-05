@@ -1,60 +1,74 @@
-# Eliminación de Cuenta – Exams
+# Account Deletion – Exams
 
-**Última actualización:** 10 de marzo de 2026  
-
----
-
-## 1. Cómo solicitar la eliminación de tu cuenta
-
-Puedes solicitar la eliminación de tu cuenta de Exams en cualquier momento mediante:
-
-- Desde la aplicación (opción "Eliminar cuenta" en ajustes)  
-- Enviando un email a: **villalabs.app@gmail.com**  
+**Last Updated:** March 10, 2026  
 
 ---
 
-## 2. Qué datos se eliminan
+## 1. How to Request Account Deletion
 
-Al eliminar tu cuenta, se eliminarán:
+You may request the deletion of your Exams account at any time through one of the following methods:
 
-- Tu dirección de correo electrónico  
-- Tu cuenta de usuario  
-- Documentos y archivos que hayas subido  
-- Exámenes generados y resultados asociados  
+- Within the App (via the "Delete Account" option in settings)  
+- By sending an email to: **villalabs.app@gmail.com**  
 
 ---
 
-## 3. Datos que pueden conservarse
+## 2. Data That Will Be Deleted
 
-Podemos conservar cierta información cuando sea necesario para:
+When your account is deleted, the following data will be permanently removed:
 
-- Cumplir con obligaciones legales  
-- Resolver disputas  
-- Prevenir fraude o abuso  
-
-Estos datos se conservarán únicamente durante el tiempo necesario y conforme a la legislación aplicable.
-
----
-
-## 4. Tiempo de procesamiento
-
-La eliminación de la cuenta se realizará:
-
-- De forma inmediata o en un plazo máximo de **7 días** desde la solicitud  
+- Your email address  
+- Your user account  
+- Documents and files you have uploaded  
+- Generated exams and associated results  
 
 ---
 
-## 5. Efectos de la eliminación
+## 3. Data That May Be Retained
 
-Al eliminar tu cuenta:
+We may retain certain information when necessary to:
 
-- Perderás acceso a todos los datos asociados  
-- La acción será irreversible  
+- Comply with legal obligations  
+- Resolve disputes  
+- Prevent fraud or abuse  
+
+Such data will be retained only for as long as necessary and in accordance with applicable laws.
 
 ---
 
-## 6. Contacto
+## 4. Processing Time
 
-Si tienes cualquier duda sobre la eliminación de tu cuenta, puedes contactar en:
+Account deletion will be completed:
 
-📧 **villalabs.app@gmail.com**
+- Immediately or within a maximum period of **7 days** from the request  
+
+---
+
+## 5. Effects of Deletion
+
+By deleting your account:
+
+- You will lose access to all associated data  
+- The action is permanent and irreversible  
+
+---
+
+## 6. Contact
+
+If you have any questions regarding account deletion, you can contact us at:
+
+📧 **villalabs.app@gmail.com**  
+
+---
+
+## 7. Important Notes
+
+- Account deletion requests may require verification of your identity to protect your account  
+- Deletion will apply only to the account associated with the request  
+- Some residual data may remain in backup systems for a limited period, after which it will be securely deleted  
+
+---
+
+## 8. Language
+
+In case of any discrepancy between translations of this policy, the English version shall prevail.
