@@ -110,4 +110,4 @@ Se notificará dentro de la aplicación.
 
 ## 12. Contacto
 
-Email: cvilla.tk@gmail.com  
+Email: villalabs.app@gmail.com  
