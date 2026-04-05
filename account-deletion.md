@@ -57,4 +57,4 @@ Al eliminar tu cuenta:
 
 Si tienes cualquier duda sobre la eliminación de tu cuenta, puedes contactar en:
 
-📧 **cvilla.tk@gmail.com**
+📧 **villalabs.app@gmail.com**
