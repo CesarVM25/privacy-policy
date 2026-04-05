@@ -1,113 +1,164 @@
-# Términos y Condiciones de Uso de Exams
+# Terms and Conditions of Use of Exams
 
-**Fecha de entrada en vigor:** 10 de marzo de 2026  
-
----
-
-## 1. Aceptación de los términos
-
-Al utilizar la aplicación Exams, aceptas estos Términos y Condiciones.  
-Si no estás de acuerdo, debes dejar de utilizar la aplicación.
+**Effective Date:** March 10, 2026  
 
 ---
 
-## 2. Descripción del servicio
+## 1. Acceptance of Terms
 
-Exams es una aplicación que permite a los usuarios:
-
-- Subir contenido educativo  
-- Generar exámenes automáticamente  
-- Obtener resultados y, opcionalmente, explicaciones  
+By accessing or using the Exams application ("the App"), you agree to be bound by these Terms and Conditions.  
+If you do not agree to these Terms, you must not use the App.
 
 ---
 
-## 3. Cuenta de usuario
+## 2. Description of the Service
 
-El usuario es responsable de:
+Exams is an application that allows users to:
 
-- Mantener la confidencialidad de su cuenta  
-- Proporcionar información veraz  
+- Upload educational content  
+- Automatically generate exams using artificial intelligence  
+- Obtain results and, optionally, explanations  
 
----
-
-## 4. Uso permitido
-
-El usuario se compromete a:
-
-- No utilizar la aplicación con fines ilegales  
-- No subir contenido que infrinja derechos de terceros  
-- No intentar vulnerar la seguridad del sistema  
+The service is provided for educational and informational purposes only.
 
 ---
 
-## 5. Contenido del usuario
+## 3. Eligibility
 
-El usuario conserva la propiedad de los contenidos que sube, pero concede a Exams una licencia para:
-
-- Procesar dicho contenido  
-- Generar exámenes  
-
-Exams no utiliza este contenido para entrenar modelos de inteligencia artificial.
+The App is not intended for individuals under the age of 16.  
+By using the App, you represent that you meet this requirement.
 
 ---
 
-## 6. Publicidad y contenido desbloqueable
+## 4. User Account
 
-Algunas funcionalidades de la aplicación pueden desbloquearse mediante:
+You are responsible for:
 
-- Visualización de anuncios  
-- Suscripción futura (si aplica)
+- Maintaining the confidentiality of your account credentials  
+- All activities that occur under your account  
+- Providing accurate and up-to-date information  
 
-El usuario acepta que:
-
-- Deberá visualizar un anuncio completo para acceder a ciertos contenidos  
-- La interrupción del anuncio puede impedir el acceso al contenido  
+We reserve the right to suspend or terminate accounts that provide false information.
 
 ---
 
-## 7. Limitación de responsabilidad
+## 5. Permitted Use
 
-Exams:
+You agree to:
 
-- No garantiza la exactitud absoluta de los exámenes generados  
-- No se hace responsable del uso que el usuario haga del contenido  
-
----
-
-## 8. Disponibilidad del servicio
-
-El servicio puede:
-
-- Modificarse  
-- Interrumpirse  
-- Mejorarse  
-
-Sin previo aviso.
+- Use the App only for lawful purposes  
+- Not upload content that infringes intellectual property or other rights  
+- Not attempt to disrupt, hack, or compromise the App or its infrastructure  
+- Not misuse the service or attempt to exploit vulnerabilities  
 
 ---
 
-## 9. Terminación
+## 6. User Content
 
-Podemos suspender cuentas que:
+You retain ownership of any content you upload.  
 
-- Incumplan estos términos  
-- Realicen uso indebido  
+By uploading content, you grant Exams a limited, non-exclusive, and revocable license to:
 
----
+- Process the content  
+- Generate exams and related outputs  
 
-## 10. Legislación aplicable
+We do not use your content to train artificial intelligence models.
 
-Estos términos se rigen por la legislación española.
-
----
-
-## 11. Cambios en los términos
-
-Podemos actualizar estos términos en cualquier momento.  
-Se notificará dentro de la aplicación.
+You are solely responsible for the legality and ownership of the content you upload.
 
 ---
 
-## 12. Contacto
+## 7. Artificial Intelligence Disclaimer
+
+The App uses artificial intelligence to generate exams and explanations.
+
+You acknowledge that:
+
+- Generated content may not be accurate, complete, or error-free  
+- The App does not provide professional or certified educational advice  
+- You use the generated content at your own risk  
+
+---
+
+## 8. Advertising and Unlockable Content
+
+Some features of the App may be accessed through:
+
+- Viewing advertisements  
+- Future subscription models (if implemented)
+
+By using the App, you agree that:
+
+- Certain content may require watching a full advertisement  
+- Interrupting or skipping advertisements may prevent access to such content  
+
+---
+
+## 9. Third-Party Services
+
+The App may rely on third-party services (such as cloud storage, analytics, or advertising providers).
+
+We are not responsible for:
+
+- The availability or performance of these services  
+- Their data handling practices  
+
+---
+
+## 10. Limitation of Liability
+
+To the maximum extent permitted by law, Exams shall not be liable for:
+
+- Any inaccuracies in generated content  
+- Any direct, indirect, incidental, or consequential damages  
+- Loss of data, profits, or opportunities arising from use of the App  
+
+The App is provided on an **"as is"** and **"as available"** basis without warranties of any kind.
+
+---
+
+## 11. Service Availability
+
+We reserve the right to:
+
+- Modify, update, or discontinue the App  
+- Limit or restrict access to certain features  
+
+At any time, without prior notice.
+
+---
+
+## 12. Termination
+
+We may suspend or terminate your account if you:
+
+- Violate these Terms  
+- Misuse the App  
+- Engage in harmful or abusive behavior  
+
+---
+
+## 13. Governing Law
+
+These Terms are governed by the laws of Spain.
+
+---
+
+## 14. Changes to the Terms
+
+We may update these Terms at any time.  
+
+Continued use of the App after changes constitutes acceptance of the updated Terms.  
+Users may be notified within the App.
+
+---
+
+## 15. Contact
 
 Email: villalabs.app@gmail.com  
+
+---
+
+## 16. Language
+
+In case of any discrepancy between translations of these Terms and Conditions, the English version shall prevail.
